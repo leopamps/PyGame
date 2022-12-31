@@ -21,7 +21,7 @@ fonte = pygame.font.SysFont('arial', 40, True, False)
 
 '''não tem comando pra mudar a cor de fundo'''
 tela = pygame.display.set_mode((larguraTela, alturaTela))
-pygame.display.set_caption('Joguinho Bunito')
+pygame.display.set_caption('Jogo da Cobrinha')
 clock = pygame.time.Clock()
 list_snake = []
 comprimento_inicial = 5
